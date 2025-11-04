@@ -1,8 +1,7 @@
 "use client";
 
-import { Button } from "./ui/button";
 import { Share } from "./share";
-import { description, title, url } from "@/lib/metadata";
+import { title, url } from "@/lib/metadata";
 
 export default function QuizResult({
   winner,

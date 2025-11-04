@@ -1,5 +1,6 @@
 import { description, title, url } from "@/lib/metadata";
 import { Metadata } from "next";
+import Quiz from "@/components/quiz";
 
 export const dynamic = "force-dynamic";
 
